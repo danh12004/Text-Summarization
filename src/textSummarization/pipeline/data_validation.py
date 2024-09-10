@@ -1,4 +1,4 @@
-from src.textSummarization.config.cofiguration import ConfigurationManager
+from textSummarization.config.configuration import ConfigurationManager
 from src.textSummarization.components.data_validation import DataValidation
 from src.textSummarization.logging import logger
 
